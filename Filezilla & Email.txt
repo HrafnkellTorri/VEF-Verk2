@@ -1,0 +1,6 @@
+Droplet Name: Hrebbi
+IP Address: 178.62.120.31
+Username: root
+Password: edc003a2064a190f
+
+hrafnkellthr276@nemi.tskoli.is
