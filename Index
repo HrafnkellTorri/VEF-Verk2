@@ -1,4 +1,10 @@
-<?php
+public function getImageSize()
+    {
+        return 0;
+    }public function getImageSize()
+    {
+        return 0;
+    }<?php
 class image
 {
     public $Name;
@@ -25,7 +31,6 @@ class image
     {
       return 0;
     }
-
 	public function setOwnerName()
     {
        return 0;
@@ -35,6 +40,17 @@ class image
     {
         return 0;
     }
+class image extends book
+{
+   public function getPublisher()
+    {
+        return 0;
+    }
+    public function setPublisher()
+    {
+        return 0;
+    }
+}
 
 }
 
