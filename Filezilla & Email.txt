@@ -1,5 +1,5 @@
 Droplet Name: Hrebbi
-IP Address: 178.62.120.31
+IP Address: 178.62.77.182
 Username: root
 
 hrafnkellthr276@nemi.tskoli.is
